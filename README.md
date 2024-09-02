@@ -33,3 +33,5 @@ Import the SQL file cooking_recipe.sql located in the project directory into the
 Access the application:
 
 Open your browser and navigate to http://localhost/cooking-recipe-management
+
+All Done!!
